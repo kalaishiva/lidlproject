@@ -3,6 +3,9 @@ import Navbar1 from './components/Navbar1';
 import Navbar2 from './components/Navbar2';
 import Navbar3 from './components/Navbar3';
 import Navbar4 from './components/Navbar4';
+import OnlineStoreTab from './components/OnlineStoreTab'
+import OnlineStore from './components/OnlineStore'
+
 
 function App() {
   return (
@@ -11,6 +14,9 @@ function App() {
     <Navbar2 />
     <Navbar3 />
     <Navbar4 />
+    <OnlineStoreTab />
+    <OnlineStore />
+
 
     </div>
   );
