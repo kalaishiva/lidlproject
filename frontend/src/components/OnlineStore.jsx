@@ -103,7 +103,7 @@ const OnlineStore = () => {
   </div>
 </section>
 
-<button type="button" className="px-5 py-2 font-bold border rounded dark:border-[#0050AA] dark:text-[#0050AA]">SHOW MORE</button>
+<button type="button" className="px-5 py-2 my-5 font-bold border rounded dark:border-[#0050AA] dark:text-[#0050AA]">SHOW MORE</button>
     
     </div>
   )
