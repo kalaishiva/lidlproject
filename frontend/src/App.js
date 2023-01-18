@@ -6,6 +6,7 @@ import Navbar4 from './components/Navbar4';
 import OnlineStoreTab from './components/OnlineStoreTab';
 import OnlineStore from './components/OnlineStore';
 import Deal from './components/Deal';
+import Ourbrand from './components/Ourbrand';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
     <OnlineStoreTab />
     <OnlineStore />
     <Deal />
+    <Ourbrand />
 
 
     </div>

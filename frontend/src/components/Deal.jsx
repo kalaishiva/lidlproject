@@ -7,7 +7,7 @@ const Deal = () => {
 	<div className="container ">
 		<div className="flex flex-col lg:flex-row  ">
             
-            <div className='absolute  text-center p-6 w-[30%] bg-[#353b42] rounded text-white text-center'>
+            <div className='absolute  text-center p-[1.8rem]~ w-[30%] bg-[#353b42] rounded text-white text-center'>
 			<h2 className="text-center text-[32px] tracking-tighter font-bold my-6">
 				Deal of the day
 			</h2>
@@ -22,7 +22,7 @@ const Deal = () => {
 <div className='w-[70%] border border-gray-200 drop-shadow-2xl relative left-[480px] z-1 flex flex-row rounded-l-[3.15rem] bg-white rounded'>
 
 			<div className="space-x-2 text-center py-2 lg:py-0 ml-6">
-				<img src='	https://www.lidl.de/assets/gcpb0e040cc870046a49fd913f69002056f.jpeg' alt='dealPic' className=' object-scale-down h-[17rem] w-[14rem]'/>
+				<img src='https://www.lidl.de/assets/gcp6bff719f912948ecb908a23c281f9851.jpeg' alt='dealPic' className=' object-scale-down h-[17rem] w-[14rem]'/>
               
         
         </div>
@@ -30,7 +30,7 @@ const Deal = () => {
          <div className=" ml-4 flex flex-col max-w-xl p-8 shadow-sm rounded-xl lg:p-12 ">
 	
     <div className="flex flex-col ">
-		<h2 className="text-[18.7px] font-semibold text-center">esmara women's lace bralette with decorative bow</h2>
+		<h2 className="text-[18.7px] font-semibold text-left">D-Link Wireless »AC1200« Parallel Band Access Point</h2>
 		<div className="flex flex-wrap items-center mt-2 mb-2 space-x-2">
 			<div className="flex">
 				<button type="button" title="Rate 1 stars" aria-label="Rate 1 stars">
@@ -66,7 +66,7 @@ const Deal = () => {
 
         <div class="inline-flex relative w-fit mt-3 ">
   <div class="absolute inline-block w-[153px] top--4 right-[3.5rem]  left-auto translate-x-2/4 -translate-y-1/2 rotate-0 skew-x-0 skew-y-0 scale-x-100 scale-y-100 py-4 mt-4 text-[15px] font-bold leading-none text-center whitespace-nowrap align-baseline font-bold bg-[#e60a14] text-white  ">-28%</div>
-    <button type="button" class="border border-gray-100 inline-block px-7 py-1 mt-7 text-[#353b42] font-bold text-[44px] leading-snug uppercase rounded shadow-md bg-white hover: hover:shadow-lg focus: focus:shadow-lg focus:outline-none focus:ring-0 active: active:shadow-lg transition duration-150 z-10 ease-in-out">4.99</button>
+    <button type="button" class="border border-gray-100 inline-block px-7 py-1 mt-7 text-[#353b42] font-bold text-[44px] leading-snug uppercase rounded shadow-md bg-white hover: hover:shadow-lg focus: focus:shadow-lg focus:outline-none focus:ring-0 active: active:shadow-lg transition duration-150 z-10 ease-in-out">59.99</button>
 </div>
 
 
