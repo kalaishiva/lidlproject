@@ -7,7 +7,7 @@ const Deal = () => {
 	<div className="container ">
 		<div className="flex flex-col lg:flex-row  ">
             
-            <div className='absolute  text-center p-[1.8rem]~ w-[30%] bg-[#353b42] rounded text-white text-center'>
+            <div className='absolute  text-center p-[1.8rem]~ w-[30%] h-[277px] bg-[#353b42] rounded text-white text-center'>
 			<h2 className="text-center text-[32px] tracking-tighter font-bold my-6">
 				Deal of the day
 			</h2>
