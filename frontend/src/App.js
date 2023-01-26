@@ -7,6 +7,7 @@ import OnlineStoreTab from './components/OnlineStoreTab';
 import OnlineStore from './components/OnlineStore';
 import Deal from './components/Deal';
 import Ourbrand from './components/Ourbrand';
+import OurCategories from './components/OurCategories';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
     <OnlineStore />
     <Deal />
     <Ourbrand />
+    <OurCategories />
 
 
     </div>
