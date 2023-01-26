@@ -6,9 +6,9 @@ const OnlineStore = () => {
         <p className='my-4 text-[2.25rem] font-bold text-[#353B42]'>Top offers are waiting for you!</p>
         <a href='' className='bg-[#E60A14] text-[18px] text-white px-6 py-3 rounded-lg'>Secure fitness items & save 4.95€ shipping cost from 49€! <a className='underline'> Click here</a> </a>
     
-        <section class="text-gray-600 body-font   border-2 border-green-800 mx-auto ">
+        <section class="text-gray-600 body-font  mx-auto ">
   <div class="container p-2 mx-auto my-2 content-center  ">
-    <div class="flex flex-wrap mx-auto  border-2 border-red-200  ">
+    <div class="flex flex-wrap mx-auto   ">
 
       <div class="lg:w-[24%] md:w-1/2   border-2 border-gray-200 rounded-lg mx-auto my-[15px]">
         <a class="block relative h-68 rounded overflow-hidden">
