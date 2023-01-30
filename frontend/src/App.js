@@ -8,7 +8,7 @@ import OnlineStore from './components/OnlineStore';
 import Deal from './components/Deal';
 import Ourbrand from './components/Ourbrand';
 import OurCategories from './components/OurCategories';
-import Footer from './components/Footer';
+import Footer1 from './components/Footer1';
 
 
 function App() {
@@ -23,7 +23,7 @@ function App() {
     <Deal />
     <Ourbrand />
     <OurCategories />
-    <Footer />
+    <Footer1 />
 
 
     </div>

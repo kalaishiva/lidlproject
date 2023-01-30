@@ -40,3 +40,37 @@
 .fa-magnifying-glass {
     color: black
 }
+
+.footer-link {
+    color: #0050AA;
+}
+
+.footer-heading {
+    font-size: 1.3rem;
+    color: #353B42;
+    font-weight: 700;
+}
+
+.footer-details {
+    color: #353B42;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.footer-content p {
+    color: #353B42;
+    text-align: left;
+    line-height: 28px;
+    margin-bottom: 10px;
+}
+
+span {
+    color: #353B42;
+    font-weight: 700;
+}
+
+.footer-legal p {
+    color: #353B42;
+    font-size: 1rem;
+}

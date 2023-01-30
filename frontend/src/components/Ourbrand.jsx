@@ -22,7 +22,7 @@ const Ourbrand = () => {
     <hr class="w-[41%] h-px my-8 bg-gray-900 border-[1px] " />
 </div>
 
-<section class="text-gray-600 body-font bg-[#FAFAFA]">
+<section class="footer-link body-font bg-[#FAFAFA]">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-wrap -m-4 text-center ">
 
