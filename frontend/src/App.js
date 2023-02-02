@@ -9,6 +9,10 @@ import Deal from './components/Deal';
 import Ourbrand from './components/Ourbrand';
 import OurCategories from './components/OurCategories';
 import Footer1 from './components/Footer1';
+import Footer2 from './components/Footer2';
+import Footer3 from './components/Footer3';
+import Footer4 from './components/Footer4';
+import Footer5 from './components/Footer5';
 
 
 function App() {
@@ -24,6 +28,10 @@ function App() {
     <Ourbrand />
     <OurCategories />
     <Footer1 />
+    <Footer2 />
+    <Footer3 />
+    <Footer4 />
+    <Footer5 />
 
 
     </div>
