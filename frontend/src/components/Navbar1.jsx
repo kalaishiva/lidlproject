@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar1 = () => {
   return (
-    <div>
+    <div className='w-[82%] mx-auto'>
         <header className="p-2  dark:text-gray-700 border-t-2 border-b-2">
 	<div className="container flex justify-between h-3 mx-auto">
 		<p>Lidl.de - Lidl is worth it.</p>
